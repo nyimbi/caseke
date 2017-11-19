@@ -1,0 +1,19 @@
+to generate the code:
+1. Use pony-orm editor to design the schema
+2. generate the python code and the Postgresql code
+3. psql dbname
+ \i db_code.sql
+
+4. Then use flask-sqlacodegen thusly:
+flask-sqlacodegen postgresql://nyimbi:abcd1234@localhost/ctmp --flask --outfile ctmp_model4.py
+
+Now edit the ctmp_model4.py and add mixins, using the ponyorm python code as a start
+
+Happy coding
+
+I edited the codegen.py file from flask-sqlacodegen on line 503 and moved 
+assocation_table.schema + '.' + 
+into a comment
+
+
+

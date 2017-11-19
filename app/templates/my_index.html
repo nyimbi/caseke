@@ -1,0 +1,40 @@
+{% extends "appbuilder/base.html" %}
+{% block content %}
+
+<div class="container">
+    <a class="btn btn-primary" href="/login/">Login </a>
+    <a class="btn btn-primary btn-large" href="/register/form">Create Account</a>
+    <a class="btn btn-primary" href="/complaint/">Complain</a>
+    <a class="btn btn-primary" href="/filingview/add">Make a Filing</a>
+</div>
+<div class="jumbotron">
+  <div class="container">
+    <h2>{{_("Court Management System")}}</h2>
+
+      <p>
+      <div class="container">
+        <!--<p>Your Universal Personal Identifier (UPI) or Personal Registration Number (PRN) is the single lifetime identifier you will use in all your interactions with the Ministry of Education-->
+        <!--It doubles as your Examination Number and your School Registration Number. </p>-->
+        <!--<p><b>To get your UPI please go to the "UPI Setup" menu and Query for your PRN</b> Update your details</p>-->
+          <!--<p><a class="btn btn-primary btn-large">Call to action!</a></p>-->
+    </div>
+  </div>
+</div>
+
+<hr>
+
+<div class="container">
+    <div class="container">
+        Thius is a demo system and input, discussion and feedback is solicited.
+    </div>
+</div>
+
+<!-- Footer -->
+        <footer>
+            <div class="row">
+                <div class="col-lg-12">
+                    <p>Copyright &copy; Judiciary of Kenya, 2017</p>
+                </div>
+            </div>
+        </footer>
+{% endblock %}

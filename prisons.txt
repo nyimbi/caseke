@@ -1,0 +1,49 @@
+Networks + Train Paralegal unit
+
+Internal Information
+a. Average daily addmission and discharges
+b). Rate of sentences?
+c). Avg Daily court and hospital attendance
+d). Name, Court of committal, policeman responsible
+e). Biometric registrations
+f). Particulars of the police man
+g). Particulars of Prisoner 
+h). Type of offense
+i). Medical Records
+j). Visits and visitors
+k). Intelliegcen gathering (Visitor overwatch)
+l). body scanners + Pictures for prison registration
+
+
+From Police:
+Remand-
+a). Warrant: Name, court of ommital, offence, next hearing, name of police officers, contact of police officer, Police officers station, height, weight, colour, distinctive marks, next of kin, crime officers contact, pregnancy status, DoB/Age, weight, health status, hometown, plce of residence, accompanying properties+ removal form, court trying case and case number, next court date, contact of ourt personnel
+
+b). Convict prisoner: Date of sentence, sigature of the judge/magistrate,tamp of court, police details,
+c).  
+
+
+
+From Court:
+- Pending cases (forecasting for remand/conviction)
+- name of inmate, offence, date of remand/sentence, 
+- Court of commital, investigator+ prosecutor, presiding judge, status of prosoner (remand/convict). nationality, residential address, next of kin+ contacts, occupation, disabled status, case number/warrant number
+- Warrant or Suit number
+- Appeal status  (Notice of appeal)
+- Bail pending appeal (notice)
+- Name of ionvestigator and contact number
+- Name and contact of lawyer
+- Decisions of the court (True judgement of the court)
+- 
+
+From AG:
+- Indictment data
+- complex cases?
+- Length of cases from the 
+- Number of docket
+- Name of prosecutor
+- Officer responsible for case at AG
+- Date of referal to AG date
+- Outcome of case
+- 
+

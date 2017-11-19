@@ -1,0 +1,15 @@
+flask-appbuilder
+sqlalchemy_utils
+sqlalchemy_continuum
+arrow
+sqlalchemy_searchable
+humanize
+flask-humanize
+flask-mail
+sqlalchemy-mixins
+gevent
+enum
+psycopg2
+pillow
+newspaper
+

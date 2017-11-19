@@ -1,0 +1,1 @@
+dropdb caseke; createdb caseke; python kpony1.py; flask-sqlacodegen postgresql://nyimbi:abcd1234@localhost/caseke --flask --outfile kdb1.py; awk '/^class/' kdb1.py > class_list.txt; awk '/^t_/' kdb1.py > join_table_list.txt
