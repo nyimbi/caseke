@@ -268,7 +268,7 @@ python-openid==2.2.5
 python-utils==2.0.1
 pytz==2016.10
 pywhatsapp==0.0.7
-PyYAML==3.11
+PyYAML==5.4
 pyzmq==16.0.2
 QRegexEditor==0.5.3
 QtAwesome==0.4.3
