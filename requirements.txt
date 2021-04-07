@@ -4,7 +4,7 @@ amqp==2.1.4
 anaconda-client==1.6.0
 anaconda-navigator==1.2.3
 aniso8601==1.2.0
-ansible==2.3.0.0
+ansible==2.10.0
 appdirs==1.4.0
 appnope==0.1.0
 appscript==1.0.1
