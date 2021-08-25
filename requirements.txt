@@ -317,7 +317,7 @@ sumy==0.6.0
 sympy==1.0
 tables==3.3.0
 tabulate==0.7.5
-tensorflow==1.0.1
+tensorflow==2.5.1
 terminado==0.6
 Theano==0.8.2
 thrift==0.10.0
