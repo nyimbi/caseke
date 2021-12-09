@@ -84,7 +84,7 @@ feedparser==5.1.3
 Flask==0.11.1
 Flask-Admin==1.1.0
 flask-admin-openerp==0.3.3
-Flask-AppBuilder==1.8.1
+Flask-AppBuilder==3.3.4
 Flask-Assets==0.10
 Flask-Babel==0.11.1
 Flask-Bootstrap==3.3.7.1
