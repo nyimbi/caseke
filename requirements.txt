@@ -210,7 +210,7 @@ openpyxl==2.4.1
 Orange==2.7.8
 packaging==16.8
 pandas==0.19.2
-paramiko==2.1.1
+paramiko==2.10.1
 parsel==1.1.0
 partd==0.3.7
 passlib==1.7.1
