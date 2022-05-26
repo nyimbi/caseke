@@ -330,7 +330,7 @@ torchvision==0.1.8
 tornado==4.3
 traitlets==4.3.1
 TranscriptBot==0.1.3
-Twisted==16.6.0
+Twisted==22.4.0
 u-msgpack-python==2.3.0
 unicodecsv==0.14.1
 urllib3==1.20
