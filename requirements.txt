@@ -51,7 +51,7 @@ configobj==5.0.6
 configparser==3.5.0
 constantly==15.1.0
 contextlib2==0.5.4
-cookiecutter==1.5.1
+cookiecutter==2.1.1
 Couchapp==1.0.2
 CouchDB==1.1
 cryptography==1.7.1
