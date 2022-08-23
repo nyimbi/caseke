@@ -191,7 +191,7 @@ mpmath==0.19
 mr.bob==0.1.1
 multipledispatch==0.4.9
 mutagen==1.37
-nbconvert==4.2.0
+nbconvert==6.5.1
 nbformat==4.2.0
 ndg-httpsclient==0.4.2
 networkx==1.11
