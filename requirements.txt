@@ -230,7 +230,7 @@ poyo==0.4.0
 prettytable==0.7.2
 progressbar2==3.10.0
 prompt-toolkit==1.0.9
-protobuf==3.2.0
+protobuf==3.18.3
 psclient==2.0
 psutil==5.1.3
 psycopg2==2.6.2
