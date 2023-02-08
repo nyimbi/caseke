@@ -54,7 +54,7 @@ contextlib2==0.5.4
 cookiecutter==1.5.1
 Couchapp==1.0.2
 CouchDB==1.1
-cryptography==1.7.1
+cryptography==39.0.1
 cssselect==0.9.1
 csv2json==0.2
 csv2latex==0.1
